@@ -18,6 +18,3 @@ It includes a header with navigation, a hero section with a call-to-action butto
 2. Open `index.html` in a browser  
    OR  
    Use **Live Server extension** in VS Code for auto-refresh.
-
-## 📷 Screenshot
-(Add your project screenshot here)
